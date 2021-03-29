@@ -58,14 +58,14 @@ h3 {
 }
 
 a {
-  color: #66BFBF;
+  color: #f4f9f9;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #314e52;
 }
 
 .copyright {
@@ -104,7 +104,7 @@ p {
 }
 
 .footer-link {
-  color: #11999E;
+  color: #11999;
 }
 
 .weight {
